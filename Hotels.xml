@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+
+  <!-- 1st Hotel-->
+  <Hotel Stars="4">
+    <Name>The London West Hollywood</Name>
+      <Contact>
+        <Phone>+1(866)2824560</Phone>
+        <Email>info@LondonHotel.com</Email>
+      </Contact>
+    <Address>
+      <Number>1020</Number>
+      <Street>N San Vicente Boulevard</Street>
+      <City>West Hollywood</City>
+      <Zip>90069</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 2nd Hotel-->
+  <Hotel Stars="5">
+    <Name>Jeremy West Hollywood</Name>
+    <Contact>
+      <Phone>+1(310)4241600</Phone>
+      <Email>info@Jeremy.com</Email>
+    </Contact>
+    <Address>
+      <Number>8490</Number>
+      <Street>Sunset Boulevard Ave</Street>
+      <City>West Hollywood</City>
+      <Zip>90069</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 3th Hotel-->
+  <Hotel Stars="5">
+    <Name>Sunset Marquis</Name>
+    <Contact>
+      <Phone>+1(310)6571333</Phone>
+      <Email>info@Sunset.com</Email>
+    </Contact>
+    <Address>
+      <Number>1200</Number>
+      <Street>Alta Loma Rd</Street>
+      <City>West Hollywood</City>
+      <Zip>90069</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 4th Hotel-->
+  <Hotel Stars="3">
+    <Name>Ramada Plaza West Hollywood Hotel and Suites</Name>
+    <Contact>
+      <Phone>+1(310)6526400</Phone>
+      <Email>info@Ramada.com</Email>
+    </Contact>
+    <Address BusLines="405-101">
+      <Number>8585</Number>
+      <Street>Santa Monica Boulevard</Street>
+      <City>West Hollywood</City>
+      <Zip>90069</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 5th Hotel-->
+  <Hotel Stars="4">
+    <Name>Grafton On Sunset</Name>
+    <Contact>
+      <Phone>+1(323)6544600</Phone>
+      <Email>info@Grafton.com</Email>
+    </Contact>
+    <Address>
+      <Number>8462</Number>
+      <Street>West Sunset Boulevard</Street>
+      <City>West Hollywood</City>
+      <Zip>90069</Zip>
+    </Address>
+  </Hotel>
+  
+</Hotels>
